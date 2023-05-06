@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+.nav{
+    height: 70px;
+    width: 100%;
+    background: #003a50c7;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.a a{
+	color: white;
+	text-decoration: none;
+	margin: 35px;
+	font-size: 22px;
+}
+.Contact{
+	font-size: 35px;
+    color: #386578;
+}	
+.contact_form{
+	width: 600px;
+    height: 40px;
+    line-height: 1.5px;
+    color: #303336;
+}
+.footer{
+   margin-top: 500px;
+   padding: 50px ;
+   background-color: #001f50;;
+ }
